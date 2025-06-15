@@ -40,17 +40,10 @@
     node-fetch "^2.6.7"
     web-streams-polyfill "^3.2.1"
 
-"@babel/runtime@^7.12.5", "@babel/runtime@^7.26.7":
-  version "7.27.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.3.tgz#10491113799fb8d77e1d9273384d5d68deeea8f6"
-  integrity sha512-7EYtGezsdiDMyY80+65EzwiGmcJqpmcZCojSXaRgdrBaGtWTgDZKq69cPIVped6MkIM78cTQ2GOiEYjwOlG4xw==
-
-"@babel/runtime@^7.20.13", "@babel/runtime@^7.23.2", "@babel/runtime@^7.24.0":
-  version "7.24.4"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.24.4.tgz#de795accd698007a66ba44add6cc86542aff1edd"
-  integrity sha512-dkxf7+hn8mFBwKjs9bvBlArzLVxVbS8usaPUDd5p2a9JCL9tB8OaOVN1isD4+Xyk4ns89/xeOmbQvgdK7IIVdA==
-  dependencies:
-    regenerator-runtime "^0.14.0"
+"@babel/runtime@^7.12.5", "@babel/runtime@^7.20.13", "@babel/runtime@^7.23.2", "@babel/runtime@^7.24.0", "@babel/runtime@^7.26.7":
+  version "7.27.6"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.6.tgz#ec4070a04d76bae8ddbb10770ba55714a417b7c6"
+  integrity sha512-vbavdySgbTTrmFE+EsiqUTzlOr5bzlnJtUv9PynGCAKvfQqjIXbvFdumPM/GxMDfyuGMJaJAU6TO4zc1Jf1i8Q==
 
 "@cfworker/json-schema@^4.0.2":
   version "4.1.1"
@@ -4310,11 +4303,6 @@ regenerator-runtime@^0.13.7:
   version "0.13.11"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz#f6dca3e7ceec20590d07ada785636a90cdca17f9"
   integrity sha512-kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg==
-
-regenerator-runtime@^0.14.0:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.14.1.tgz#356ade10263f685dda125100cd862c1db895327f"
-  integrity sha512-dYnhHh0nJoMfnkZs6GmmhFknAGRrLznOu5nc9ML+EJxGvrx6H7teuevqVqCuPcPK//3eDrrjQhehXVx9cnkGdw==
 
 regexp.prototype.flags@^1.5.2:
   version "1.5.2"
